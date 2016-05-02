@@ -1,2 +1,2 @@
 # magento2theme
-A magento 2 Theme 
+Createing a magento 2 theme based on the luna theme 
